@@ -1,0 +1,46 @@
+{
+	"menu": [
+		{
+			"url": "panel/home",
+			"name": "Home",
+			"icon": "home",
+			"slug": "home"
+		},
+		{
+			"url": "panel/fichas-atencion",
+			"name": "Ficha-Atencion",
+			"icon": "home",
+			"slug": "fichas.index"
+		},
+		{
+			"url": "panel/usuarios",
+			"name": "Users",
+			"icon": "user",
+			"slug": "usuarios.index"
+		},
+		{
+			"url": "panel/sedes",
+			"name": "Venues",
+			"icon": "home",
+			"slug": "sedes.index"
+		},
+		{
+			"url": "panel/asignacion-diaria",
+			"name": "Daily-allowances",
+			"icon": "home",
+			"slug": "asignacionDiaria.index"
+		},
+		{
+			"url": "panel/asistencias",
+			"name": "assists",
+			"icon": "home",
+			"slug": "asistencias.index"
+		},
+		{
+			"url": "panel/reportes",
+			"name": "Reports",
+			"icon": "home",
+			"slug": "reportes.index"
+		}
+	]
+}
